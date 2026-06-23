@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+saved_models/*.pkl
+
+.vscode/
+
+.idea/
+
+.DS_Store
